@@ -1,6 +1,10 @@
 # Tic-Tac-Toe_vs_PC
+
 1.** Introduction**
+
 The purpose of this assignment is to get familiar with C Language, use functions and array, and learn how to design a simple game with a friendly user interface using C Language.
+
+
 2.** Instructions**
 You can use nano or any other editor to write your C code.
   
